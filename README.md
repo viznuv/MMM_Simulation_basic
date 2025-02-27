@@ -247,7 +247,7 @@ Illustrates diminishing returns and optimal spend levels by channel.
 ## Example Outputs
 
 ### Sales Decomposition
-![Sales Decomposition](https://github.com/viznuv/mmm-simulation/raw/main/images/sales_decomposition.png)
+![Sales Decomposition](https://github.com/viznuv/mmm-simulation/Sales decompositions.png)
 
 ### ROI Comparison
 ![ROI Comparison](https://github.com/viznuv/mmm-simulation/raw/main/images/roi_comparison.png)
