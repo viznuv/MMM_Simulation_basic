@@ -2,6 +2,7 @@
 
 A comprehensive Python framework for simulating, analyzing, and optimizing Marketing Mix Models (MMM) with multiple advertising channels and external factors.
 
+![Sales decompositions](https://github.com/user-attachments/assets/04785169-0afc-4ffe-aca4-ab9df16404ba)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -248,15 +249,6 @@ Illustrates diminishing returns and optimal spend levels by channel.
 
 ### Sales Decomposition
 ![Sales Decomposition](https://github.com/viznuv/mmm-simulation/Sales decompositions.png)
-
-### ROI Comparison
-![ROI Comparison](https://github.com/viznuv/mmm-simulation/raw/main/images/roi_comparison.png)
-
-### Response Curves
-![Response Curves](https://github.com/viznuv/mmm-simulation/raw/main/images/response_curves.png)
-
-### Budget Optimization
-![Budget Optimization](https://github.com/viznuv/mmm-simulation/raw/main/images/budget_optimization.png)
 
 ## Advanced Usage
 
